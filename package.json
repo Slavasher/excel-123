@@ -1,5 +1,5 @@
 {
-  "name": "excel",
+  "name": "excel-123",
   "version": "1.0.0",
   "description": "Pure JavaScript Excel Application",
   "main": "webpack.config.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Slavasher/excel.git"
+    "url": "git+https://github.com/Slavasher/excel-123.git"
   },
   "keywords": [
     "js",
@@ -20,9 +20,9 @@
   "author": "Slava",
   "license": "ISC",
   "bugs": {
-    "url": "git+https://github.com/Slavasher/excel.git"
+    "url": "git+https://github.com/Slavasher/excel-123.git"
   },
-  "homepage": "https://github.com/Slavasher/excel#readme",
+  "homepage": "https://github.com/Slavasher/excel-123#readme",
   "private": true,
   "browserslist": "> 0.25%, not dead",
   "devDependencies": {
